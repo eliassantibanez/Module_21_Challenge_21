@@ -32,18 +32,12 @@ No licenses were used to build this project other than a Trilogy Code License po
 ---
 
 ## Screenshots
-Index 4 and Index 1 are the two accounts that are used for the example. See screenshots below on transaction activity
-
 *Initiating the Contract*
 ![](https://github.com/eliassantibanez/Module_21_Challenge_21/blob/main/Screenshots/Screen%20Shot%202022-02-17%20at%206.20.42%20PM.png)
 
 
 *Contract Creation Transaction*
 ![](https://github.com/eliassantibanez/Module_21_Challenge_21/blob/main/Screenshots/Screen%20Shot%202022-02-17%20at%206.22.49%20PM.png)
-
-
-*Renounce Minter Transaction*
-![](https://github.com/eliassantibanez/Module_21_Challenge_21/blob/main/Screenshots/Screen%20Shot%202022-02-17%20at%206.27.08%20PM.png)
 
 
 *Importing Tokens*
@@ -60,8 +54,13 @@ Index 4 and Index 1 are the two accounts that are used for the example. See scre
 
 
 *Balance of Account*
+
 ![](https://github.com/eliassantibanez/Module_21_Challenge_21/blob/main/Screenshots/Screen%20Shot%202022-02-17%20at%206.30.03%20PM.png)
 
+
+*Renounce Minter Transaction*
+
+![](https://github.com/eliassantibanez/Module_21_Challenge_21/blob/main/Screenshots/Screen%20Shot%202022-02-17%20at%206.27.08%20PM.png)
 
 
 
