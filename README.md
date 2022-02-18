@@ -10,14 +10,7 @@ This application uses the following libraries:
 * Ganache
 * Remix IDE
 
----
 
-## Screenshots
-Index 4 and Index 1 are the two accounts that are used for the example. See screenshots below on transaction activity
-
-![](https://github.com/eliassantibanez/Module_20_Challenge_20/blob/main/Screenshots/Screen%20Shot%202022-02-16%20at%2011.44.38%20AM.png "account view")
-![](https://github.com/eliassantibanez/Module_20_Challenge_20/blob/main/Screenshots/Screen%20Shot%202022-02-16%20at%2011.44.47%20AM.png "transaction information")
-![](https://github.com/eliassantibanez/Module_20_Challenge_20/blob/main/Screenshots/Screen%20Shot%202022-02-16%20at%2011.53.17%20AM.png "MetaMask Description of transaction")
 ---
 
 ## Installation Guide
@@ -35,3 +28,42 @@ Eli Santibanez was the only contributor to this project.
 ## License
 
 No licenses were used to build this project other than a Trilogy Code License possibly. 
+
+---
+
+## Screenshots
+Index 4 and Index 1 are the two accounts that are used for the example. See screenshots below on transaction activity
+
+*Initiating the Contract*
+![](https://github.com/eliassantibanez/Module_21_Challenge_21/blob/main/Screenshots/Screen%20Shot%202022-02-17%20at%206.20.42%20PM.png)
+
+
+*Contract Creation Transaction*
+![](https://github.com/eliassantibanez/Module_21_Challenge_21/blob/main/Screenshots/Screen%20Shot%202022-02-17%20at%206.22.49%20PM.png)
+
+
+*Renounce Minter Transaction*
+![](https://github.com/eliassantibanez/Module_21_Challenge_21/blob/main/Screenshots/Screen%20Shot%202022-02-17%20at%206.27.08%20PM.png)
+
+
+*Importing Tokens*
+![](https://github.com/eliassantibanez/Module_21_Challenge_21/blob/main/Screenshots/Screen%20Shot%202022-02-17%20at%206.28.49%20PM.png)
+![](https://github.com/eliassantibanez/Module_21_Challenge_21/blob/main/Screenshots/Screen%20Shot%202022-02-17%20at%206.28.56%20PM.png)
+
+
+*Token Activity*
+![](https://github.com/eliassantibanez/Module_21_Challenge_21/blob/main/Screenshots/Screen%20Shot%202022-02-17%20at%206.29.04%20PM.png)
+
+
+*Name, Symbol, Total Supply & *
+![](https://github.com/eliassantibanez/Module_21_Challenge_21/blob/main/Screenshots/Screen%20Shot%202022-02-17%20at%206.29.54%20PM.png)
+
+
+*Balance of Account*
+![](https://github.com/eliassantibanez/Module_21_Challenge_21/blob/main/Screenshots/Screen%20Shot%202022-02-17%20at%206.30.03%20PM.png)
+
+
+
+
+
+
